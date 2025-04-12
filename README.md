@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mobile app development<br>🌱 I’m currently learning Software engineering<br>⚡ I'm a patinate programer and fast learner
+🔭 I’m currently working on mobile app development<br>🌱 I’m pursuing Software engineering degree<br>⚡ I'm a patinate programer and fast learner
 
 
 ## 🌐 Socials:
